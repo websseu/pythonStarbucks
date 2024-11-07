@@ -89,16 +89,59 @@ try:
 
     # 점포 정보
     store_name = soup.find("h6").text.strip()
+    store_address_full = soup.select_one(".shopArea_info dd").get_text(separator="\n").strip()
+    store_address = store_address_full.split("\n")[0].strip()
     store_desc = soup.find(class_="asm_stitle").p.text.strip()
+    store_phone = soup.find("dt", string="전화번호").find_next_sibling("dd").text.strip()
     store_parking = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
     store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
 
+    # 서비스 이미지 URL 리스트 추출
+    service_section = soup.find("dt", string="서비스").find_next_sibling("dd")
+    store_services = [
+        f"https:{img['src']}" for img in service_section.find_all("img")
+    ]
+
+    # 위치 및 시설 이미지 URL 리스트 추출
+    facility_section = soup.find("dt", string="위치 및 시설").find_next_sibling("dd")
+    store_facilities = [
+        f"https:{img['src']}" for img in facility_section.find_all("img")
+    ]
+
+    # 이미지 URL 리스트 추출
+    image_urls = [
+        f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
+    ]
+
+    # data-type="C" 영업시간 보기
+    # data-type="R" 리저브존 영업시간 보기
+    # data-type="O" Delivers 영업시간 보기
+    # data-type="D" Drive Thru 영업시간 보기
+    # data-type="P" 펫 존 영업시간 보기
+    # data-type="W" Walk-Thru 영업시간 보기
+
+    # 영업 시간 처리
+    store_hours = []
+    hours_sections = soup.select(".date_time dl")
+    for dl in hours_sections:
+        dt_tags = dl.select("dt")
+        dd_tags = dl.select("dd")
+        store_hours.extend([
+            ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
+        ])
+    
     # 추출한 정보를 저장
     details_data = {
         "name": store_name,
+        "address": store_address,
+        "phone": store_phone,
         "description": store_desc,
         "parking": store_parking,
-        "directions": store_directions
+        "directions": store_directions,
+        "services": store_services,
+        "facilities": store_facilities,
+        "image_urls": image_urls,
+        "hours": store_hours, 
     }
 
     # seoul 폴더 안에 JSON 파일 저장
