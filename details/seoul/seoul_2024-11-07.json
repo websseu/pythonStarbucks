@@ -1,36 +1,111 @@
-{
-    "name": "역삼아레나빌딩",
-    "address": "서울특별시 강남구 언주로 425 (역삼동)",
-    "phone": "1522-3232",
-    "description": "편안하고 따뜻한 분위기에서 커피한잔을 즐겨보세요",
-    "parking": "1.주차가능 2.주차위치-매장 후면 3.주차가능대수-10대 이상(장애인 포함) 4.주차조건-유료(1시간 4,000원) 5.주차요금정산-고객이 직접 정산(주차장 관리인 있음)",
-    "directions": "르네상스호텔사거리 개나리주유소 옆, 역삼아레나빌딩 1층에 위치합니다.\n선릉역 4번출구, 역삼역 1번출에 방면",
-    "services": [
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
-    ],
-    "facilities": [
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
-        "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
-    ],
-    "image_urls": [
-        "https://image.istarbucks.co.kr//upload/store/2019/06/[3762]_20190612101444_j4839.JPG",
-        "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240421051420_9g275.jpg",
-        "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422023556_ueyil.jpg",
-        "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422023608_nuoma.jpg",
-        "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422024134_541pw.jpg",
-        "https://image.istarbucks.co.kr//upload/store/2019/06/[3762]_20190612101545_uav71.JPG"
-    ],
-    "hours": [
-        "07일 목요일 07:00 ~ 22:00",
-        "08일 금요일 07:00 ~ 22:00",
-        "09일 토요일 07:00 ~ 22:00",
-        "10일 일요일 07:00 ~ 22:00",
-        "11일 월요일 07:00 ~ 22:00",
-        "12일 화요일 07:00 ~ 22:00",
-        "13일 수요일 07:00 ~ 22:00"
-    ]
-}
+[
+    {
+        "name": "역삼아레나빌딩",
+        "address": "서울특별시 강남구 언주로 425 (역삼동)",
+        "phone": "1522-3232",
+        "description": "편안하고 따뜻한 분위기에서 커피한잔을 즐겨보세요",
+        "parking": "1.주차가능 2.주차위치-매장 후면 3.주차가능대수-10대 이상(장애인 포함) 4.주차조건-유료(1시간 4,000원) 5.주차요금정산-고객이 직접 정산(주차장 관리인 있음)",
+        "directions": "르네상스호텔사거리 개나리주유소 옆, 역삼아레나빌딩 1층에 위치합니다.\n선릉역 4번출구, 역삼역 1번출에 방면",
+        "services": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+        ],
+        "facilities": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+        ],
+        "image_urls": [
+            "https://image.istarbucks.co.kr//upload/store/2019/06/[3762]_20190612101444_j4839.JPG",
+            "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240421051420_9g275.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422023556_ueyil.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422023608_nuoma.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2024/04/[3762]_20240422024134_541pw.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2019/06/[3762]_20190612101545_uav71.JPG"
+        ],
+        "hours": [
+            "07일 목요일 07:00 ~ 22:00",
+            "08일 금요일 07:00 ~ 22:00",
+            "09일 토요일 07:00 ~ 22:00",
+            "10일 일요일 07:00 ~ 22:00",
+            "11일 월요일 07:00 ~ 22:00",
+            "12일 화요일 07:00 ~ 22:00",
+            "13일 수요일 07:00 ~ 22:00"
+        ]
+    },
+    {
+        "name": "논현역사거리",
+        "address": "서울특별시 강남구 강남대로 538 (논현동)",
+        "phone": "1522-3232",
+        "description": "따뜻한 햇살, 감미로운 커피 그리고 밝은 미소가 함께하는 논현역사거리점 입니다.",
+        "parking": "주차 불가능",
+        "directions": "지하철 7호선 논현역 2번출구 강남역 방향 도보 2분이내 (70m)\n지하철 9호선 신논현역 3번출구 한남대교 방면 도보 약10분 \n교보타워 사거리 한남대교 방면 약 850M 자생한방병원 옆 건물",
+        "services": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon18.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+        ],
+        "facilities": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+        ],
+        "image_urls": [
+            "https://image.istarbucks.co.kr//upload/store/2018/12/[3672]_20181211120009_t9i9n.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2018/11/[3672]_20181124120124_dehzd.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2018/11/[3672]_20181124120140_t1039.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2018/11/[3672]_20181124120407_cagju.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2018/11/[3672]_20181124120128_0toav.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2018/11/[3672]_20181124120130_qzxnb.jpg"
+        ],
+        "hours": [
+            "07일 목요일 07:00 ~ 22:00",
+            "08일 금요일 07:00 ~ 22:00",
+            "09일 토요일 08:00 ~ 21:00",
+            "10일 일요일 09:00 ~ 20:00",
+            "11일 월요일 07:00 ~ 22:00",
+            "12일 화요일 07:00 ~ 22:00",
+            "13일 수요일 07:00 ~ 22:00"
+        ]
+    },
+    {
+        "name": "신사역성일빌딩",
+        "address": "서울특별시 강남구 강남대로 584 (논현동)",
+        "phone": "1522-3232",
+        "description": "아늑하고 세련된 아트웍이 인상적인 스타벅스 신사역성일빌딩점 입니다.",
+        "parking": "주차 불가능",
+        "directions": "신사역 3번 출구 논현역방향 직진 성일빌딩 1층(도보 300m)",
+        "services": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+        ],
+        "facilities": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+        ],
+        "image_urls": [
+            "https://image.istarbucks.co.kr//upload/store/2022/01/[3858]_20220127064243_5khni.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2022/11/[3858]_20221123080146_tpfde.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2022/11/[3858]_20221123080200_po4wa.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2022/11/[3858]_20221123080553_qegbr.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2023/01/[3858]_20230102110519_bpv5w.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2023/01/[3858]_20230105102941_u32bj.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2023/04/[3858]_20230425055746_r4183.jpg"
+        ],
+        "hours": [
+            "07일 목요일 07:00 ~ 23:00",
+            "08일 금요일 07:00 ~ 23:00",
+            "09일 토요일 07:30 ~ 22:00",
+            "10일 일요일 08:00 ~ 21:00",
+            "11일 월요일 07:00 ~ 22:00",
+            "12일 화요일 07:00 ~ 22:00",
+            "13일 수요일 07:00 ~ 22:00"
+        ]
+    }
+]
