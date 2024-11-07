@@ -10,6 +10,25 @@ import os
 import time
 import json
 
+# 운영시간 가져오기
+def extract_info_by_label(soup, label_text, default="정보 없음"):
+    dt_element = soup.find('dt', string=lambda text: text and label_text in text)
+    if dt_element:
+        dd_element = dt_element.find_next_sibling('dd')
+        if dd_element:
+            return dd_element.get_text(strip=True)
+    return default
+
+# 상세정보 이미지 가져오기
+def extract_images_by_label(soup, label_text):
+    dt_element = soup.find('dt', string=lambda text: text and label_text in text)
+    if dt_element:
+        dd_element = dt_element.find_next_sibling('dd')
+        if dd_element:
+            images = dd_element.find_all('img')
+            return ['https:' + img['src'] if not img['src'].startswith(('http:', 'https:')) else img['src'] for img in images]
+    return []
+
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
