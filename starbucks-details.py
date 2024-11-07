@@ -110,6 +110,25 @@ try:
     except NoSuchElementException:
         print("상세 정보 보기 버튼을 찾을 수 없습니다.")
 
+
+    # 페이지 소스를 BeautifulSoup을 사용하여 저장
+    html_source_updated = browser.page_source
+    soup = BeautifulSoup(html_source_updated, 'html.parser')
+
+    # 점포 타이틀
+    store_name = soup.find("h6").text.strip()
+
+    # 추출한 정보를 저장
+    details_data = {
+        "name": store_name,
+    }
+
+    output_file_path = os.path.join("details", f"store_details_{current_date}.json")
+    with open(output_file_path, "w", encoding="utf-8") as json_file:
+        json.dump(details_data, json_file, ensure_ascii=False, indent=4)
+
+    print(f"데이터가 {output_file_path}에 저장되었습니다.")
+
 except TimeoutException:
     print("페이지 로드 실패")
 
