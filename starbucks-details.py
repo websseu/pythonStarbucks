@@ -14,36 +14,8 @@ import json
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-location_name_mapping = {
-    "강남구": "gangnamgu",
-    "강동구": "gangdonggu",
-    "강북구": "gangbukgu",
-    "강서구": "gangseogu",
-    "관악구": "gwanakgu",
-    "광진구": "gwangjingu",
-    "구로구": "gurogu",
-    "금천구": "geumcheongu",
-    "노원구": "nowongu",
-    "도봉구": "dobonggu",
-    "동대문구": "dongdaemungu",
-    "동작구": "dongjakgu",
-    "마포구": "mapogu",
-    "서대문구": "seodaemungu",
-    "서초구": "seochogu",
-    "성동구": "seongdonggu",
-    "성북구": "seongbukgu",
-    "송파구": "songpagu",
-    "양천구": "yangcheongu",
-    "영등포구": "yeongdeungpogu",
-    "용산구": "yongsangu",
-    "은평구": "eunpyeonggu",
-    "종로구": "jongnogu",
-    "중구": "junggu",
-    "중랑구": "jungnanggu"
-}
-
 # location 폴더 생성
-base_folder_path = "details"
+base_folder_path = os.path.join("details", "seoul")
 os.makedirs(base_folder_path, exist_ok=True)
 
 # 웹드라이버 설정 및 페이지 로드
@@ -115,15 +87,22 @@ try:
     html_source_updated = browser.page_source
     soup = BeautifulSoup(html_source_updated, 'html.parser')
 
-    # 점포 타이틀
+    # 점포 정보
     store_name = soup.find("h6").text.strip()
+    store_desc = soup.find(class_="asm_stitle").p.text.strip()
+    store_parking = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
+    store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
 
     # 추출한 정보를 저장
     details_data = {
         "name": store_name,
+        "description": store_desc,
+        "parking": store_parking,
+        "directions": store_directions
     }
 
-    output_file_path = os.path.join("details", f"store_details_{current_date}.json")
+    # seoul 폴더 안에 JSON 파일 저장
+    output_file_path = os.path.join(base_folder_path, f"seoul_{current_date}.json")
     with open(output_file_path, "w", encoding="utf-8") as json_file:
         json.dump(details_data, json_file, ensure_ascii=False, indent=4)
 

@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add location/**/*.json || echo "No JSON files to add"
+          git add location/**/*.json  details/**/*.json || echo "No JSON files to add"
           git commit -m "스타벅스 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
