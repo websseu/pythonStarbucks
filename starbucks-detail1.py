@@ -12,7 +12,7 @@ import json
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-# location 폴더 생성
+# details 폴더 생성
 base_folder_path = os.path.join("details", "gangwon")
 os.makedirs(base_folder_path, exist_ok=True)
 

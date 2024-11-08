@@ -1,0 +1,43 @@
+{
+    "location": "seoul",
+    "count": 623,
+    "date": "2024-11-08",
+    "item": {
+        "number": 623,
+        "name": "중화역",
+        "description": "따뜻하고, 쾌적한 곳에서 친절한 파트너와 스타벅스 경험을  나눠보세요.",
+        "address": "서울특별시 중랑구 봉화산로 35 1층",
+        "parking": "1.주차불가능",
+        "directions": "중화역 3번 출구에서 노브랜드 버거 방향으로 100m입니다.",
+        "phone": "1522-3232",
+        "services": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+        ],
+        "facilities": [
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+            "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+        ],
+        "images": [
+            "https://image.istarbucks.co.kr//upload/store/2023/01/[3801]_20230116114149_zig3d.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2023/01/[3801]_20230116114614_ih2kt.JPG",
+            "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201223083033_x46ym.jpg",
+            "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034401_eoly2.JPG",
+            "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034406_1npzq.JPG",
+            "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034423_vz92v.JPG",
+            "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034427_6riw8.JPG"
+        ],
+        "hours": [
+            "08일 금요일 07:00 ~ 21:00",
+            "09일 토요일 07:00 ~ 21:00",
+            "10일 일요일 07:00 ~ 21:00",
+            "11일 월요일 07:00 ~ 21:00",
+            "12일 화요일 07:00 ~ 21:00",
+            "13일 수요일 07:00 ~ 21:00",
+            "14일 목요일 07:00 ~ 21:00"
+        ]
+    }
+}
