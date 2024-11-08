@@ -90,6 +90,16 @@ image_urls = [
     f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
 ]
 
+# 영업 시간 추출
+store_hours = []
+hours_sections = soup.select(".date_time dl")
+for dl in hours_sections:
+    dt_tags = dl.select("dt")
+    dd_tags = dl.select("dd")
+    store_hours.extend([
+        ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
+    ])
+
 # JSON 데이터 생성
 store_data = {
     "name": store_name,
@@ -101,6 +111,7 @@ store_data = {
     "services": store_services,
     "facilities": store_facilities,
     "images": image_urls,
+    "hours": store_hours, 
 }
 
 # JSON 파일 저장

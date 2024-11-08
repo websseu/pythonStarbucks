@@ -51,74 +51,88 @@ print("전체선택 버튼을 클릭했습니다.")
 # 전체 점포 리스트 가져오기
 stores = browser.find_elements(By.CSS_SELECTOR, ".quickSearchResultBoxSidoGugun .quickResultLstCon")
 
-# 첫번째 점포 클릭
-stores[0].click()
+# 모든 점포 데이터를 저장할 리스트
+all_store_data = []
 
-# 첫번째 점포 이름과 주소 추출
-store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
-store_address = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .addr").text.strip()
+# 모든 점포에 대해 순차적으로 작업
+for index, store in enumerate(stores):
+    # store.click()
+    # JavaScript를 사용하여 요소 클릭
+    browser.execute_script("arguments[0].click();", store)
+    time.sleep(3)
 
-# 첫번째 점포 "상세 정보 보기" 버튼 클릭
-detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail").click()
-time.sleep(5) 
-print("상세 정보 보기 버튼을 클릭했습니다.")
+    # 점포 이름과 주소 추출
+    store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
+    store_address = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .addr").text.strip()
 
-# 상세 정보 페이지의 HTML 가져오기
-detail_page_html = browser.page_source
-soup = BeautifulSoup(detail_page_html, 'html.parser')
+    # "상세 정보 보기" 버튼 클릭
+    # detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail").click()
+    detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
+    browser.execute_script("arguments[0].click();", detail_button)
+    time.sleep(5) 
+    print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
 
-# 각종 정보 추출
-store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
-store_parking_info = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
-store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
-store_phone = soup.find("dt", string="전화번호").find_next_sibling("dd").text.strip()
+    # 상세 정보 페이지의 HTML 가져오기
+    detail_page_html = browser.page_source
+    soup = BeautifulSoup(detail_page_html, 'html.parser')
 
-# 서비스 이미지 URL 리스트 추출
-service_section = soup.find("dt", string="서비스").find_next_sibling("dd")
-store_services = [
-    f"https:{img['src']}" for img in service_section.find_all("img")
-]
+    # 각종 정보 추출
+    store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
+    store_parking_info = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
+    store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
+    store_phone = soup.find("dt", string="전화번호").find_next_sibling("dd").text.strip()
 
-# 위치 및 시설 이미지 URL 리스트 추출
-facility_section = soup.find("dt", string="위치 및 시설").find_next_sibling("dd")
-store_facilities = [
-    f"https:{img['src']}" for img in facility_section.find_all("img")
-]
+    # 서비스 이미지 URL 리스트 추출
+    service_section = soup.find("dt", string="서비스").find_next_sibling("dd")
+    store_services = [
+        f"https:{img['src']}" for img in service_section.find_all("img")
+    ]
 
-# 이미지 URL 리스트 추출
-image_urls = [
-    f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
-]
+    # 위치 및 시설 이미지 URL 리스트 추출
+    facility_section = soup.find("dt", string="위치 및 시설").find_next_sibling("dd")
+    store_facilities = [
+        f"https:{img['src']}" for img in facility_section.find_all("img")
+    ]
 
-# 영업 시간 추출
-store_hours = []
-hours_sections = soup.select(".date_time dl")
-for dl in hours_sections:
-    dt_tags = dl.select("dt")
-    dd_tags = dl.select("dd")
-    store_hours.extend([
-        ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
-    ])
+    # 이미지 URL 리스트 추출
+    image_urls = [
+        f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
+    ]
 
-# JSON 데이터 생성
-store_data = {
-    "name": store_name,
-    "description": store_description,
-    "address": store_address,
-    "parking": store_parking_info,
-    "directions": store_directions,
-    "phone": store_phone,
-    "services": store_services,
-    "facilities": store_facilities,
-    "images": image_urls,
-    "hours": store_hours, 
-    "date_collected": current_date
-}
+    # 영업 시간 추출
+    store_hours = []
+    hours_sections = soup.select(".date_time dl")
+    for dl in hours_sections:
+        dt_tags = dl.select("dt")
+        dd_tags = dl.select("dd")
+        store_hours.extend([
+            ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
+        ])
+
+    # JSON 데이터 생성
+    store_data = {
+        "name": store_name,
+        "description": store_description,
+        "address": store_address,
+        "parking": store_parking_info,
+        "directions": store_directions,
+        "phone": store_phone,
+        "services": store_services,
+        "facilities": store_facilities,
+        "images": image_urls,
+        "hours": store_hours, 
+    }
+    all_store_data.append(store_data)
+
+    # 상세 정보 창 닫기
+    close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
+    browser.execute_script("arguments[0].click();", close_button)
+    time.sleep(2)
 
 # JSON 파일 저장
 output_file_path = os.path.join(base_folder_path, f"gangwon_{current_date}.json")
 with open(output_file_path, 'w', encoding='utf-8') as f:
-    json.dump(store_data, f, ensure_ascii=False, indent=4)
+    json.dump(all_store_data, f, ensure_ascii=False, indent=4)
 
 print(f"파일이 저장되었습니다: {output_file_path}")
 
