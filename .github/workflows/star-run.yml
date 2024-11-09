@@ -38,22 +38,27 @@ jobs:
 
       - name: Run Starbucks Details Script
         run: |
-          python starbucks-details-busan.py
-          python starbucks-details-chungbuk.py
-          python starbucks-details-chungnam.py
-          python starbucks-details-daegu.py
-          python starbucks-details-daejeon.py
-          python starbucks-details-gangwon.py
-          python starbucks-details-gwangju.py
-          python starbucks-details-gyeongbuk.py
-          python starbucks-details-gyeonggi.py
-          python starbucks-details-gyeongnam.py
-          python starbucks-details-incheon.py
-          python starbucks-details-jeju.py
-          python starbucks-details-jeolbuk.py
-          python starbucks-details-jeolnam.py
-          python starbucks-details-seoul.py
-          python starbucks-details-ulsan.py
+          retry() {
+            for i in {1..3}; do
+              "$@" && break || sleep 10
+            done
+          }
+          retry python starbucks-details-busan.py
+          retry python starbucks-details-chungbuk.py
+          retry python starbucks-details-chungnam.py
+          retry python starbucks-details-daegu.py
+          retry python starbucks-details-daejeon.py
+          retry python starbucks-details-gangwon.py
+          retry python starbucks-details-gwangju.py
+          retry python starbucks-details-gyeongbuk.py
+          retry python starbucks-details-gyeonggi.py
+          retry python starbucks-details-gyeongnam.py
+          retry python starbucks-details-incheon.py
+          retry python starbucks-details-jeju.py
+          retry python starbucks-details-jeolbuk.py
+          retry python starbucks-details-jeolnam.py
+          retry python starbucks-details-seoul.py
+          retry python starbucks-details-ulsan.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
