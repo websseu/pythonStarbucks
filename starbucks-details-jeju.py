@@ -39,13 +39,13 @@ browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
 
 # 클릭 및 이동
 browser.find_element(By.CSS_SELECTOR, "#container > div > form > fieldset > div > section > article.find_store_cont > article > header.loca_search > h3 > a").click()
-time.sleep(5)
+time.sleep(3)
 print("지역검색 버튼을 클릭했습니다.")
 browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(16)").click()
-time.sleep(5) 
+time.sleep(3) 
 print("제주 버튼을 클릭했습니다.")
 browser.find_element(By.CSS_SELECTOR, "#mCSB_2_container > ul > li:nth-child(1) > a").click()
-time.sleep(5) 
+time.sleep(3) 
 print("전체선택 버튼을 클릭했습니다.")
 
 # 전체 점포 리스트 가져오기
@@ -59,7 +59,7 @@ for index, store in enumerate(stores):
     # store.click()
     # JavaScript를 사용하여 요소 클릭
     browser.execute_script("arguments[0].click();", store)
-    time.sleep(3)
+    time.sleep(1)
 
     # 점포 이름과 주소 추출
     store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
@@ -68,7 +68,7 @@ for index, store in enumerate(stores):
     # "상세 정보 보기" 버튼 클릭
     detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
     browser.execute_script("arguments[0].click();", detail_button)
-    time.sleep(3) 
+    time.sleep(1) 
     print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
 
     # 상세 정보 페이지의 HTML 가져오기
@@ -127,7 +127,7 @@ for index, store in enumerate(stores):
     # 상세 정보 창 닫기
     close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
     browser.execute_script("arguments[0].click();", close_button)
-    time.sleep(2)
+    time.sleep(1)
 
 # JSON 파일 구조화
 final_data = {
