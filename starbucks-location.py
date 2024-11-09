@@ -78,7 +78,7 @@ try:
             # 전체 버튼 클릭
             try:
                 all_button = browser.find_element(By.CSS_SELECTOR, ".gugun_arae_box li:nth-child(1) a")
-                all_button.click()
+                browser.execute_script("arguments[0].click();", all_button)
                 print("전체 버튼을 클릭했습니다.")
                 time.sleep(3)
 
@@ -138,7 +138,7 @@ try:
                 # "지역 검색" 버튼 클릭
                 try:
                     localSearch = browser.find_element(By.CSS_SELECTOR, "#container > div > form > fieldset > div > section > article.find_store_cont > article > header.loca_search > h3 > a")
-                    localSearch.click()
+                    browser.execute_script("arguments[0].click();", localSearch)
                     print("지역 검색 버튼을 클릭했습니다.")
                     time.sleep(3)
                 except Exception as e:

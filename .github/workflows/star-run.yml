@@ -36,11 +36,7 @@ jobs:
         run: |
           python starbucks-location.py
 
-      - name: Run Starbucks Gangwon Script
-        run: |
-          python starbucks-details-gangwon.py
-
-      - name: Run Starbucks Busan Script
+      - name: Run Starbucks Details Script
         run: |
           python starbucks-details-busan.py
 
