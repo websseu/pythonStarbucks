@@ -68,7 +68,7 @@ try:
         try:
             location_button = browser.find_element(By.CSS_SELECTOR, f".sido_arae_box li:nth-child({i}) a")
             location_name_kor = location_button.text  # 한글 지역명
-            location_button.click()
+            browser.execute_script("arguments[0].click();", location_button)  
             print(f"{location_name_kor} 버튼을 클릭했습니다.")
             
             # 한글 지역명을 영문으로 변환
