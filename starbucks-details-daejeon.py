@@ -13,7 +13,7 @@ import json
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # details 폴더 생성
-base_folder_path = os.path.join("details", "gangwon")
+base_folder_path = os.path.join("details", "daejeon")
 os.makedirs(base_folder_path, exist_ok=True)
 
 # 웹드라이버 설정 및 페이지 로드
@@ -41,12 +41,12 @@ browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
 browser.find_element(By.CSS_SELECTOR, "#container > div > form > fieldset > div > section > article.find_store_cont > article > header.loca_search > h3 > a").click()
 time.sleep(5)
 print("지역검색 버튼을 클릭했습니다.")
-browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(9)").click()
+browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(5)").click()
 time.sleep(5) 
-print("강원 버튼을 클릭했습니다.")
+print("대전 버튼을 클릭했습니다.")
 browser.find_element(By.CSS_SELECTOR, "#mCSB_2_container > ul > li:nth-child(1) > a").click()
 time.sleep(5) 
-print("전체선택 버튼을 클릭했습니다.") 
+print("전체선택 버튼을 클릭했습니다.")
 
 # 전체 점포 리스트 가져오기
 stores = browser.find_elements(By.CSS_SELECTOR, ".quickSearchResultBoxSidoGugun .quickResultLstCon")
@@ -76,22 +76,22 @@ for index, store in enumerate(stores):
     soup = BeautifulSoup(detail_page_html, 'html.parser')
 
     # 각종 정보 추출
-    store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
-    store_parking_info = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
-    store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
-    store_phone = soup.find("dt", string="전화번호").find_next_sibling("dd").text.strip()
+    store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip() if soup.select_one(".shopArea_pop01 .asm_stitle p") else ""
+    store_parking_info = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip() if soup.find("dt", string="주차정보") else ""
+    store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip() if soup.find("dt", string="오시는 길") else ""
+    store_phone = soup.find("dt", string="전화번호").find_next_sibling("dd").text.strip() if soup.find("dt", string="전화번호") else ""
 
     # 서비스 이미지 URL 리스트 추출
-    service_section = soup.find("dt", string="서비스").find_next_sibling("dd")
+    service_section = soup.find("dt", string="서비스")
     store_services = [
-        f"https:{img['src']}" for img in service_section.find_all("img")
-    ]
+        f"https:{img['src']}" for img in service_section.find_next_sibling("dd").find_all("img")
+    ] if service_section and service_section.find_next_sibling("dd") else []
 
     # 위치 및 시설 이미지 URL 리스트 추출
-    facility_section = soup.find("dt", string="위치 및 시설").find_next_sibling("dd")
+    facility_section = soup.find("dt", string="위치 및 시설")
     store_facilities = [
-        f"https:{img['src']}" for img in facility_section.find_all("img")
-    ]
+        f"https:{img['src']}" for img in facility_section.find_next_sibling("dd").find_all("img")
+    ] if facility_section and facility_section.find_next_sibling("dd") else []
 
     # 이미지 URL 리스트 추출
     image_urls = [
@@ -133,13 +133,13 @@ for index, store in enumerate(stores):
 final_data = {
     "kind": "Korea Starbucks",
     "date": current_date,
-    "location": "강원(gangwon)",
+    "location": "대전(daejeon)",
     "count": len(store_data_list),
     "item": store_data_list
 }
 
 # JSON 파일 저장
-output_file_path = os.path.join(base_folder_path, f"gangwon_{current_date}.json")
+output_file_path = os.path.join(base_folder_path, f"daejeon_{current_date}.json")
 with open(output_file_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, ensure_ascii=False, indent=4)
 

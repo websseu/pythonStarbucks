@@ -13,7 +13,7 @@ import json
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # details 폴더 생성
-base_folder_path = os.path.join("details", "gangwon")
+base_folder_path = os.path.join("details", "seoul")
 os.makedirs(base_folder_path, exist_ok=True)
 
 # 웹드라이버 설정 및 페이지 로드
@@ -41,12 +41,12 @@ browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
 browser.find_element(By.CSS_SELECTOR, "#container > div > form > fieldset > div > section > article.find_store_cont > article > header.loca_search > h3 > a").click()
 time.sleep(5)
 print("지역검색 버튼을 클릭했습니다.")
-browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(9)").click()
+browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(1)").click()
 time.sleep(5) 
-print("강원 버튼을 클릭했습니다.")
+print("서울 버튼을 클릭했습니다.")
 browser.find_element(By.CSS_SELECTOR, "#mCSB_2_container > ul > li:nth-child(1) > a").click()
 time.sleep(5) 
-print("전체선택 버튼을 클릭했습니다.") 
+print("전체선택 버튼을 클릭했습니다.")
 
 # 전체 점포 리스트 가져오기
 stores = browser.find_elements(By.CSS_SELECTOR, ".quickSearchResultBoxSidoGugun .quickResultLstCon")
@@ -133,13 +133,13 @@ for index, store in enumerate(stores):
 final_data = {
     "kind": "Korea Starbucks",
     "date": current_date,
-    "location": "강원(gangwon)",
+    "location": "서울(seoul)",
     "count": len(store_data_list),
     "item": store_data_list
 }
 
 # JSON 파일 저장
-output_file_path = os.path.join(base_folder_path, f"gangwon_{current_date}.json")
+output_file_path = os.path.join(base_folder_path, f"seoul_{current_date}.json")
 with open(output_file_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, ensure_ascii=False, indent=4)
 
