@@ -32,9 +32,13 @@ jobs:
           pip install beautifulsoup4 lxml selenium webdriver_manager
 
       # 4. 스크립트 실행
-      - name: Run Starbucks Script
+      - name: Run Starbucks Location Script
         run: |
-          python starbucks-details.py
+          python starbucks-location.py
+
+      - name: Run Starbucks Gangwon Script
+        run: |
+          python starbucks-details-gangwon.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
