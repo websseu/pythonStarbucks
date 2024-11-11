@@ -58,7 +58,7 @@ store_data_list = []
 for index, store in enumerate(stores):
     # store.click()
     browser.execute_script("arguments[0].click();", store)
-    time.sleep(1)
+    time.sleep(2)
 
     # 점포 이름과 주소 추출
     store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
@@ -67,7 +67,7 @@ for index, store in enumerate(stores):
     # "상세 정보 보기" 버튼 클릭
     detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
     browser.execute_script("arguments[0].click();", detail_button)
-    time.sleep(1) 
+    time.sleep(2) 
     print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
 
     # 상세 정보 페이지의 HTML 가져오기
@@ -126,7 +126,7 @@ for index, store in enumerate(stores):
     # 상세 정보 창 닫기
     close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
     browser.execute_script("arguments[0].click();", close_button)
-    time.sleep(1)
+    time.sleep(2)
 
 # JSON 파일 구조화
 final_data = {
