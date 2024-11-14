@@ -2,14 +2,40 @@
 
 파이썬을 이용하여 스타벅스 홈페이지에서 스타벅스 매장 정보를 수집하겠습니다.
 
+## 지역
+
+```
+
+```
+
 ## 폴더명
+
+```
+https://websseu.github.io/pythonStarbucks/location/seoul/seoul_2024-11-13.json
+```
+
+```
+https://websseu.github.io/pythonStarbucks/location/[지역명]/[지역명]_2024-11-13.json
+```
 
 ```
 └── location [지역명, 지역 매장 갯수, 위도, 경도]
     ├── seoul
     ├── busan
     ├── daegu
-    └── incheon
+    ├── incheon
+    ├── gwangju
+    ├── daejeon
+    ├── ulsan
+    ├── gyeonggi
+    ├── gangwon
+    ├── chungbuk
+    ├── chungnam
+    ├── jeolbuk
+    ├── jeolnam
+    ├── gyeongbuk
+    ├── gyeongnam
+    └── jeju
 ```
 
 ## 지역명
