@@ -1,0 +1,1372 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2024-11-21",
+    "location": "전북(jeolbuk)",
+    "count": 38,
+    "item": [
+        {
+            "number": 1,
+            "name": "전북김제DT",
+            "description": "커피 한 잔의 여유를 편리하게 즐길 수 있는",
+            "address": "전라북도 김제시 콩쥐팥쥐로 11 (검산동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 앞 전용주차장 3.주차가능대수 18대(장애인 1대 포함) 4. 주차조건 -없음",
+            "directions": "검산교차로 사거리에서 전주방향, 100m 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4201]_20231022105320_adexv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4201]_20221226103132_bd2m8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4201]_20221226103152_3orjj.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 2,
+            "name": "전북남원DT",
+            "description": "향긋한 커피향으로 고객님의 하루를 채워 드리는 스타벅스 전북남원DT점입니다.",
+            "address": "전라북도 남원시 요천로 1477 (쌍교동)",
+            "parking": "1.주차가능 2. 주차장위치-매장 앞 전용주차장 3. 주차가능대수 17대(장애인 1대 포함) 4. 주차조건 - 무료",
+            "directions": "1. 버스 이용시 삽다리사가 정류장 하차(십수정 건너편)\n2. 자동차 이용시 광화루원 정문에서 십수정 방향 200m위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4172]_20221220084724_y9t5g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4172]_20221222111929_7xviy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4172]_20221222111950_h2tgb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4172]_20221222112001_mmnaj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4172]_20221222112012_nfabd.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 3,
+            "name": "익산모현",
+            "description": "넓고 쾌적한 주차공간을 제공하는 스타벅스 익산모현점에서 커피 한 잔의 여유를 만끽하세요.",
+            "address": "전라북도 익산시 선화로 106 (모현동1가)",
+            "parking": "1.주차가능 2.매장 측/후면 위치 3.(장애인 2대 포함) 총 32대 4.무료 5.스타벅스 전용주차장",
+            "directions": "모현공원 사거리에서 모현동 주민센터 방면 도보 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190211065955_e9en3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190221023934_6m07m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190221023719_6shy9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190221023732_gm3l5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190221023753_e4wqw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190227065019_g43i5.png",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190227065240_bxaqi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3670]_20190227065512_hjgw2.png"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:00",
+                "22일 금요일 07:30 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:30 ~ 21:00",
+                "26일 화요일 07:30 ~ 21:00",
+                "27일 수요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "익산영등DT",
+            "description": "Drive Thru의 편리함을 통해 스타벅스의 특별한 경험을 드립니다.",
+            "address": "전라북도 익산시 무왕로 1005 (영등동)",
+            "parking": "1.주차가능 2.매장 전면 위치 3.총 11대 주차 4.무료 5.스타벅스 전용주차장",
+            "directions": "영등동 CGV 에서 원광대학교 가는 방향 나은병원 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3341]_20180205093659_uzwrm.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3341]_20210405064310_sd0yl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/12/[3341]_20161221052117_rlx40.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2016/12/[3341]_20161221052136_u4kht.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2016/12/[3341]_20161221052144_u664x.JPG"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:30",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 07:00 ~ 21:30",
+                "24일 일요일 07:00 ~ 21:30",
+                "25일 월요일 07:00 ~ 21:30",
+                "26일 화요일 07:00 ~ 21:30",
+                "27일 수요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "익산영등",
+            "description": "익산의 보석, 빛나는 영등동, 그 안의 스타벅스, 즐기러 오세요!",
+            "address": "전라북도 익산시 무왕로 1052 (영등동)",
+            "parking": "1.주차가능 2.입점 건물 아오아빌딩 지하 1층 3.(장애인 4대 포함) 78대, 4.건물 입점 매장 구매영수증 지참 5.영수증 제시",
+            "directions": "익산 롯데마트 맞은편, CGV익산 1층에 위치\n\n* 버스노선(롯데마트앞 제일 1차아파트) 55번, 56번, 57번, 100번, 101번, 103번, 104번, 107번",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190704123741_bgdid.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012827_x8hyi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012848_fcy76.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012838_wfnlw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012819_ei8th.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012853_0y8xk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[9681]_20190702012844_23mmn.jpg"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 21:00",
+                "22일 금요일 08:00 ~ 21:00",
+                "23일 토요일 09:00 ~ 21:00",
+                "24일 일요일 09:00 ~ 21:00",
+                "25일 월요일 08:00 ~ 21:00",
+                "26일 화요일 08:00 ~ 21:00",
+                "27일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "익산어양",
+            "description": "지친 일상 속 편안한 커피 한잔의 여유를 선사합니다.",
+            "address": "전라북도 익산시 하나로 495 (영등동)",
+            "parking": "1. 주차가능 2. 매장 후면 위치 3. 장애인 주차 2대 포함 총 29대 주차 4. 무료주차 5. 스타벅스 전용주차장",
+            "directions": "어양교차로에서 하나로사거리 방면, 영등중학교 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065333_kkpw8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065654_301gd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065322_9yjye.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065402_a12ih.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065930_5t10j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065438_3ug03.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824070108_3zvt8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824070012_d1kd5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065622_uiijq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4387]_20230824065643_fkht2.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 7,
+            "name": "익산동산DT",
+            "description": "Drive Thru의 편리함을 통해 스타벅스의 특별한 경험을 드립니다.",
+            "address": "전라북도 익산시 평동로 722 (동산동)",
+            "parking": "1. 주차가능 2. 매장 전면 바라보는 방향에서 우측에 위치 3. 장애인 주차 1대 포함 총 32대 주차 4. 무료주차 5. 스타벅스 전용주차장",
+            "directions": "이마트 익산점 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045253_80v4y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4037]_20221105052310_f4icb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4037]_20221105052319_autpi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045455_rjkhi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4037]_20221105052344_8z77w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4037]_20221105052359_g2p9b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045413_duqdt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045418_el1m8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045424_3bdkv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4037]_20220501045445_1z59l.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 8,
+            "name": "전주송천DT",
+            "description": "커피 한잔의 즐거움과 편리한 Drive-Thru를 경험할 수 있는 스타벅스 전주송천DT점 입니다.",
+            "address": "전라북도 전주시 덕진구 송천중앙로 228 (송천동2가)",
+            "parking": "1.주차가능 2.매장 전면 위치 3.총 5대 주차 4.무료 5.스타벅스 전용주차장",
+            "directions": "송천역 네거리방향 맥도날드 송천DT점 도보(3분), 우리의원 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3578]_20240130062802_xo0hu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102605_08i5t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102433_umf6i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102443_04n48.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102452_qyqbl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102500_yiwta.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102508_5n2fd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102520_bcikl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3578]_20210803102528_t95fh.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 07:30 ~ 22:00",
+                "24일 일요일 08:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 9,
+            "name": "전북대병원DT",
+            "description": "Drive Thru의 편리함을 통해 스타벅스의 특별한 경험을 드립니다.",
+            "address": "전라북도 전주시 덕진구 백제대로 616 (금암동)",
+            "parking": "1.주차가능 2.매장 전면 바라보는 방향에서 우측에 위치 3.장애인 주차 1대 포함 총 12대 주차 4.무료 5.스타벅스 전용주차장",
+            "directions": "전주덕진소방서 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420095703_890fa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100630_avxy8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100641_7g9kd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100500_uwdqu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100512_29q9e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100523_z3nyj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100558_cjhc5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100606_p1efk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100613_jpjwv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3688]_20210420100620_owc2k.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:00",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 07:00 ~ 21:30",
+                "24일 일요일 07:00 ~ 21:00",
+                "25일 월요일 07:00 ~ 21:00",
+                "26일 화요일 07:00 ~ 21:00",
+                "27일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "전주혁신도시",
+            "description": "혁신도시의 중심에 위치한 스타벅스 전주혁신도시점입니다.",
+            "address": "전라북도 전주시 덕진구 기지로 68 (중동)",
+            "parking": "1.주차가능 2.입점 건물 가온빌딩 지하 1층 3.(장애인 3대 포함) 31대 4.무료",
+            "directions": "NH농협 사거리. 전북은행 옆.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[3577]_20190617103349_blu8k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405020841_bwvcp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405062615_netsq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405062625_cwthk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405062636_a402c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405062642_xim3l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3577]_20180405062650_rq4q9.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:30",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 08:00 ~ 21:30",
+                "24일 일요일 08:00 ~ 21:30",
+                "25일 월요일 07:00 ~ 21:30",
+                "26일 화요일 07:00 ~ 21:30",
+                "27일 수요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "전주덕진광장DT",
+            "description": "Drive-Thru의 편리함과 최상의 서비스를 제공하는 전주덕진광장DT입니다.",
+            "address": "전라북도 전주시 덕진구 기린대로 491 (덕진동1가)",
+            "parking": "1.주차가능 2.매장 후면 위치 3.총 10대 주차 4.무료 5.스타벅스 전용주차장",
+            "directions": "덕진광장 사거리 한나여성병원 바로 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3481]_20230728042341_7vbem.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3481]_20171201124819_f1k3y.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3481]_20171201124831_i48pc.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3481]_20171201124842_xphze.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3481]_20171201124847_hrdlv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3481]_20171201124852_2qrl0.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:30",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 07:00 ~ 21:30",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:00 ~ 21:30",
+                "26일 화요일 07:00 ~ 21:30",
+                "27일 수요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "전북대",
+            "description": "안녕하세요. 생동하는 젊음, 지식 나눔, 제 3의공간을 느끼실 수 있는  전북대점입니다!",
+            "address": "전라북도 전주시 덕진구 명륜4길 12 (덕진동1가)",
+            "parking": "주차불가능",
+            "directions": "전북대학교 구정문 대학촌 APT옆 서주빌딩 1,2층 *버스노선 : 165, 3-2, 161, 350, 559, 684, 752번",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240825034802_yppv4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240825053849_dva8w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113753_upe97.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113805_pne16.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113810_pmsbw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113815_1n07i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113819_7xlbm.jpg"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 22:00",
+                "22일 금요일 08:00 ~ 22:00",
+                "23일 토요일 08:00 ~ 22:00",
+                "24일 일요일 09:00 ~ 21:30",
+                "25일 월요일 08:00 ~ 22:00",
+                "26일 화요일 08:00 ~ 22:00",
+                "27일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "전주에코DT",
+            "description": "전북 최초 크래프트 푸드 매장, 전주에코DT점입니다.",
+            "address": "전라북도 전주시 덕진구 백석로 170 (전미동1가)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 앞 전용주차장 3.주차가능대수 80대(장애인 3대, 전기차 충전 4대 포함)  4. 주차조건 -없음",
+            "directions": "전주에코시티 KCC 스위첸 13블럭 건너편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210092237_32k1e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210091857_8fdld.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4382]_20231109100856_kz8x3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210091338_z8wxj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210092758_65zeu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4382]_20231108103250_m9iwi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4382]_20231109100907_fy4dw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4382]_20231109101022_zhup2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210092530_62lqo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4382]_20231210092648_ptx26.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 08:00 ~ 22:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:00 ~ 21:00",
+                "26일 화요일 07:00 ~ 21:00",
+                "27일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "전주에코시티",
+            "description": "전주 에코시티의 중심, 일상의 편안함을 느낄 수 있는 전주에코시티점 입니다",
+            "address": "전라북도 전주시 덕진구 세병2길 10 (송천동2가)",
+            "parking": "1. 주차가능 2.주차장 위치 - 입점 건물 지하 3. 주차가능대수 -100대 이상 4. 주차조건 - 무료",
+            "directions": "송천동 이마트 정문 옆 로마네시티 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4109]_20211006081730_yv6gn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4109]_20211006082123_azf61.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4109]_20211006082134_lrmyc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4109]_20211006082141_3ovny.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4109]_20211006082147_ro5y8.jpg"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 20:00",
+                "22일 금요일 08:00 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 20:00",
+                "25일 월요일 08:00 ~ 20:00",
+                "26일 화요일 08:00 ~ 20:00",
+                "27일 수요일 08:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 15,
+            "name": "전주인후DT",
+            "description": "커피 한잔과 Drive Thru의 편리함을 통해 스타벅스의 특별한 경험을 드립니다.",
+            "address": "전라북도 전주시 덕진구 아중로 135 (인후동1가)",
+            "parking": "1.주차가능 2.매장 측면 위치 3.총 9대 주차 4.무료 5.스타벅스 전용주차장",
+            "directions": "전주인후3동 우체국 도보 1분 이내",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331032232_64466.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331032339_pur3h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331032554_8zec4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331033253_53gix.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331033300_piemz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331033310_6g1qo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331033324_nmxk4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3863]_20210331033424_g3luv.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 16,
+            "name": "전주호성DT",
+            "description": "호성동 동부대로의 중심에 있는 전주호성DT점 입니다",
+            "address": "전라북도 전주시 덕진구 동부대로 860 (호성동1가)",
+            "parking": "1. 주차가능 2.주차장 위치 - 매장 앞 주차장 3. 주차가능대수 - 25대(장애인 1대 포함) 4.주차조건 - 무료주차",
+            "directions": "호성동1가 주민센터 맞은편에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4066]_20220329011301_47y4y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4066]_20221226103633_i9tdj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4066]_20221226103652_73fwt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4066]_20221226103708_67d0r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4066]_20221226103721_8f8cw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4066]_20221226103751_ja69k.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 17,
+            "name": "전주만성DT",
+            "description": "Drive-Thru의 편리함과 넓고 쾌적한 주차공간을 제공하는 스타벅스 전주만성DT점에서 커피 한 잔의 여유를 만끽하세요.",
+            "address": "전라북도 전주시 덕진구 정여립로 972 (만성동)",
+            "parking": "1. 주차가능 2. 매장 전면 위치 3. 장애인 주차 1대 포함 총 29대 주차 4. 무료주차 5. 스타벅스 전용주차장",
+            "directions": "한국농수산대학교에서 전주산업단지 방면, 우리노인전문병원 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4225]_20230913074204_ec6lt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4225]_20240223032327_bi9cu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4225]_20240223032333_ahxh3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4225]_20240227104200_393z2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4225]_20240227104206_d525i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4225]_20240227104212_w7w5u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4225]_20230913075445_lkd4a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4225]_20230913075515_5rwwp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4225]_20230913075537_00ygy.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:30",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 08:00 ~ 21:30",
+                "24일 일요일 08:00 ~ 21:30",
+                "25일 월요일 07:00 ~ 21:30",
+                "26일 화요일 07:00 ~ 21:30",
+                "27일 수요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 18,
+            "name": "전주IC DT",
+            "description": "Drive Thru의 편리함을 통해 스타벅스의 특별한 경험을 드립니다.",
+            "address": "전라북도 전주시 덕진구 기린대로 1022 (여의동)",
+            "parking": "1. 주차가능 2. 매장 전면 바라보는 방향에서 좌측에 위치 3. 장애인 주차 1대 포함 총 14대 주차 4.유료주차 5. 스타벅스 전용주차장",
+            "directions": "전주호남제일문 방면, 한국수자원공사 금강유역본부 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929011537_7iz8k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012343_ii584.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012300_vj6qg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012304_p5fhk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012309_ezc8h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012314_dpxdo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012321_adjub.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012327_z6x5m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012333_nnzfg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3965]_20210929012338_z12sd.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:00",
+                "22일 금요일 07:00 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:00 ~ 21:00",
+                "26일 화요일 07:00 ~ 21:00",
+                "27일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 19,
+            "name": "전주아중DT",
+            "description": "향긋한 커피향으로 고객님의 하루를 채워 드리는 스타벅스 전주아중DT점입니다.",
+            "address": "전라북도 전주시 덕진구 아중로 220 (우아동1가)",
+            "parking": "1.주차가능 2. 주차장위치-매장 앞 전용주차장 3. 주차가능대수 13대(장애인 1대 포함) 4. 주차조건 - 무료",
+            "directions": "아중역 교차로에서 전주시청 방향으로 200m 아중요양병원 맞은 편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4436]_20240626025211_ydwzi.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 08:00 ~ 22:00",
+                "24일 일요일 08:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 20,
+            "name": "전주시청",
+            "description": "도심속 커피 한 잔의 여유를 즐길 수 있는 스타벅스 전주시청점 입니다.",
+            "address": "전라북도 전주시 완산구 기린대로 213 (서노송동)",
+            "parking": "1. 주차불가능",
+            "directions": "전주시청에서 전북대방면 약300m, 대우빌딩1층\n버스이용시 대우빌딩정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915070822_951l4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915071306_ssj4b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915071319_grpjn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915071328_dwevb.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 20:00",
+                "22일 금요일 07:30 ~ 20:00",
+                "23일 토요일 08:00 ~ 19:00",
+                "24일 일요일 08:00 ~ 19:00",
+                "25일 월요일 07:30 ~ 20:00",
+                "26일 화요일 07:30 ~ 20:00",
+                "27일 수요일 07:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 21,
+            "name": "전주평화DT",
+            "description": "커피한잔의 즐거움과 편리한 Drive Thru를 경험할 수 있는 전주평화DT점입니다.",
+            "address": "전라북도 전주시 완산구 모악로 4696 (평화동2가)",
+            "parking": "1. 주차가능, 2.주차장위치 - 매장 옆 전용 주차장 3. 주차가능대수 (6대), 4. 주차조건 - 무료",
+            "directions": "자차 이용시 : 꽃밭정이 네거리에서 순창 방면 모악로 약 915m 이동 후 U턴하여 진입    \n대중교통 이용시 : 평화삼성강남아파트 정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3579]_20180620054628_t14u1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3579]_20190213043210_w6j0h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3579]_20190213043219_row0r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[3579]_20190213043251_7noa8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/03/[3579]_20190311040540_v4fn5.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2019/03/[3579]_20190312072750_pqcig.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/03/[3579]_20190312072800_d1h9j.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:00",
+                "22일 금요일 07:00 ~ 21:00",
+                "23일 토요일 07:00 ~ 21:00",
+                "24일 일요일 07:00 ~ 21:00",
+                "25일 월요일 07:00 ~ 21:00",
+                "26일 화요일 07:00 ~ 21:00",
+                "27일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 22,
+            "name": "전주백제대로DT",
+            "description": "환영합니다. 백제대로에서 편리하게 Drive-Thru를 이용할 수 있는 전주백제대로DT점 입니다.",
+            "address": "전라북도 전주시 완산구 백제대로 242 (중화산동2가)",
+            "parking": "1.주차가능 2.주차장위치 - 매장 뒷편 전용주차장 3.주차가능대수 - 11대 4.주차조건-무료",
+            "directions": "백제대로에 위치한 전주병원 앞 위치.\n한마음병원.전주병원 버스정류장 도보(1분) 위치.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[3454]_20210325052659_jhukk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[3454]_20190613073759_hivwx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102053_xas4c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102058_4d6f1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102101_bkxm0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102106_8jcv1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102125_z94u2.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 07:00 ~ 22:00",
+                "24일 일요일 07:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 23,
+            "name": "전주효자DT",
+            "description": "맛과 멋이 공존하는 전북 최초의 Drive-Thru 전주효자DT점 입니다",
+            "address": "전라북도 전주시 완산구 용머리로 7 (효자동1가)",
+            "parking": "1. 주차가능 2.주차장 위치 - 매장 옆 주차장 3. 주차가능대수 - 17대 (장애인 1대) 4.주차조건 - 무료",
+            "directions": "효자동 (구)오펠리스 예식장 옆 위치\n홈플러스 효자점 도보(3분), 차량(1분) 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060553_vtre7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060608_gwjtp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060613_les95.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060615_1pphl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060618_eev28.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3173]_20210606060621_9uvmf.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 07:00 ~ 22:00",
+                "24일 일요일 07:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "전주서신",
+            "description": "지친 일상에서 벗어나 향긋한 커피 한 잔의 여유를 느낄 수 있는 전주서신점입니다.",
+            "address": "전라북도 전주시 완산구 서신로 104 (서신동)",
+            "parking": "1.주차가능 2.매장 후면 리더스 주차장 3.약 10대 주차 가능(자동차키 주차장에서 보관함) 4.영수증당 30분 무료 5.주차장에서 제공하는 주차증에 '30분 무료주차' 매장도장 찍은 후 추가요금 발생시에는 주차관리인에게 정산 (30분 초과시 1000원 추가)",
+            "directions": "전주 광진선수촌아파트 입구(구 맥도날드 자리)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3200]_20170711022856_378mq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3200]_20170716094548_cndv8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3200]_20170716094556_fmj6v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3200]_20170716094604_ik3h0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3200]_20170716094611_gun8d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/12/[3200]_20151221171320821.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2015/12/[3200]_20151221171410458.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2015/12/[3200]_20151221171451467.JPG"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:00",
+                "22일 금요일 07:30 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:30 ~ 21:00",
+                "26일 화요일 07:30 ~ 21:00",
+                "27일 수요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 25,
+            "name": "전주홍산로",
+            "description": "향기로운 커피한잔의 여유를 만끽할수 있는 전주홍산로점입니다.",
+            "address": "전라북도 전주시 완산구 홍산로 238 (효자동2가)",
+            "parking": "1.주차가능 2.주차장위치 - 입점건물 지하 3. 주차가능대수 -15대(장애인주차 2대별도) 4. 주차조건 -무료 (단 입점업체가 많아 주차 어려우며, 매장 옆에 유료 공영주차장 있음)",
+            "directions": "전주우체국 맞은편 서희스타힐스에서 전북도청 방향으로 도보 1분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3097]_20170711024308_wxfci.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3097]_20150730104326535.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3097]_20150730104330908.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3097]_20150730104331006.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3097]_20150730104331088.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3097]_20170711024316_u9ire.jpg"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 21:00",
+                "22일 금요일 08:00 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 08:00 ~ 21:00",
+                "26일 화요일 08:00 ~ 21:00",
+                "27일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 26,
+            "name": "전주한옥마을",
+            "description": "전통 한옥의 아름다움을 커피 한 잔에 담아드립니다. 환영합니다. 전주한옥마을점 입니다.",
+            "address": "전라북도 전주시 완산구 팔달로 123 (전동)",
+            "parking": "주차불가능",
+            "directions": "팔달로 풍남문 교차로 사거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[3082]_20190415041951_tm4s5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[3082]_20190415045959_tjzc0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3082]_20150730104233614.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3082]_20150730104233744.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3082]_20150730104234022.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3082]_20150730104234177.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[3082]_20150730104234360.jpg"
+            ],
+            "hours": [
+                "21일 목요일 09:00 ~ 20:00",
+                "22일 금요일 09:00 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 20:00",
+                "25일 월요일 09:00 ~ 20:00",
+                "26일 화요일 09:00 ~ 20:00",
+                "27일 수요일 09:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 27,
+            "name": "전북도청",
+            "description": "새로운 전북의 중심 전북도청점에서 여유로운 커피 한 잔을 즐겨 보세요.",
+            "address": "전라북도 전주시 완산구 홍산중앙로 22 (효자동3가)",
+            "parking": "1.주차가능 2.주차장위치 - 입점건물 지하 주차장 3. 주차가능대수 - 20대 (장애인1대 별도) 4. 주차조건 - 구매시 최대 1시간 30분, 이후 10분당 500원 (단 입점업체가 많아 주차에는 매우 어려움 있음)",
+            "directions": "전북도청사에서 직진으로 400m 앞 사거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105531_as4dt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105627_y8pla.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105719_gqxjm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105658_8w009.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105645_lxvyh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105732_8wgrs.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 23:00",
+                "23일 토요일 07:00 ~ 23:00",
+                "24일 일요일 08:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 28,
+            "name": "전주경원",
+            "description": "미래를 여는 천년 전주의 편안한 휴식처 전주경원점입니다.",
+            "address": "전라북도 전주시 완산구 전주객사4길 44-18 (고사동)",
+            "parking": "주차불가능",
+            "directions": "전주영화의거리에서 NC 백화점 방향으로 300m 사거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428025947_i3ioa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030018_gqlmd.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030059_71hvv.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030110_iqbbl.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030123_y32a0.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030128_acmlb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9662]_20190428030140_khhid.JPG"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 22:00",
+                "22일 금요일 08:00 ~ 22:00",
+                "23일 토요일 08:00 ~ 22:00",
+                "24일 일요일 08:00 ~ 22:00",
+                "25일 월요일 08:00 ~ 22:00",
+                "26일 화요일 08:00 ~ 22:00",
+                "27일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 29,
+            "name": "전주신시가지",
+            "description": "도심속 커피 한 잔의 여유를 느낄 수 있는 스타벅스 전주신시가지점 입니다.",
+            "address": "전라북도 전주시 완산구 우전로 255 (효자동2가)",
+            "parking": "주차불가능",
+            "directions": "롯데마트 전주점 맞은편 효자5동 주민센터 옆에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201012121934_v1xs1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201014074454_4rq24.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201014074503_hlusn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201014074506_87eta.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201014074509_9z8iy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3910]_20201014074511_pr63s.jpg"
+            ],
+            "hours": [
+                "21일 목요일 08:00 ~ 21:00",
+                "22일 금요일 08:00 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 20:00",
+                "25일 월요일 08:00 ~ 21:00",
+                "26일 화요일 08:00 ~ 21:00",
+                "27일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 30,
+            "name": "전주이마트",
+            "description": "지친 일상 속 편안한 커피 한잔의 여유를 선사합니다.",
+            "address": "전라북도 전주시 완산구 당산로 111 (서신동)",
+            "parking": "1.주차가능 2.이마트 건물 주차장 3.(장애인 포함) 100대, 4.구매영수증 지참 5.사전정산",
+            "directions": "롯데백화점 맞은편 이마트 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240411042024_8foct.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240411042937_0v2vf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240407114751_xt328.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240407114421_7uubl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240411042355_i0nwz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4403]_20240411042401_ugsb8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4403]_20230213052940_4wztp.jpg"
+            ],
+            "hours": [
+                "21일 목요일 10:00 ~ 21:30",
+                "22일 금요일 10:00 ~ 22:00",
+                "23일 토요일 10:00 ~ 22:00",
+                "24일 일요일 휴점",
+                "25일 월요일 10:00 ~ 21:30",
+                "26일 화요일 10:00 ~ 21:30",
+                "27일 수요일 10:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 31,
+            "name": "전주효천DT",
+            "description": "효천지구 옆, 중복천과 나무들의 경관이 아름다운 스타벅스 전주효천 DT점 입니다.",
+            "address": "전라북도 전주시 완산구 천잠로 149 (효자동2가)",
+            "parking": "1.주차가능 2.주차장위치 - 매장 후면 전용주차장 3.주차가능대수 -  29대(장애인1대포함) 4.주차조건 - 유료주차 (30분 기본 무료, 이후 10분 당 200원) 1/2/3/4만원 이상 구매시 1/2/3/4시간 무료 (최대 4시간)",
+            "directions": "대중교통이용시 천잠로.우미린1차아파트 버스정류장하차(도보 약 5분거리 위치)\n효천지구 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3944]_20210902060756_kiw8c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3944]_20210902061424_xmbw8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3944]_20210902061646_5ioa9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3944]_20210902061827_qf4oc.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 07:00 ~ 22:00",
+                "24일 일요일 07:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 32,
+            "name": "전북정읍DT",
+            "description": "차별화된 서비스로 고객에게 특별한 경험을 전달하는 스타벅스 전북정읍DT점입니다.",
+            "address": "전라북도 정읍시 충정로 271 (수성동)",
+            "parking": "1.주차가능 2. 주차위치 - 매장옆 전용주차장 3.주차가능대수 22대 (장애인 1대 포함) 4.주차조건 - 구매고객에 한해 무료 (매장뒷편 유료 공영주차장 있음)",
+            "directions": "1. 버스 이용 시 171번, 122번, 순환 2번 탑승 후 동아철물, 중앙극장 정류서 하차 (정읍학생복지회관 맞은편) \n2. 자동차 이용시 정읍IC 진입 후 남북로 따라 샘골터널 지나기 전 좌측 100m 이내 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524103526_n8108.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104053_tqww6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104104_vg7gd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104119_x2rbw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104156_ceohr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104249_bodh8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104259_g7k2o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3324]_20170524104317_wgm94.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:30",
+                "22일 금요일 07:30 ~ 22:00",
+                "23일 토요일 08:00 ~ 22:00",
+                "24일 일요일 08:00 ~ 21:30",
+                "25일 월요일 07:30 ~ 21:30",
+                "26일 화요일 07:30 ~ 21:30",
+                "27일 수요일 07:30 ~ 21:30"
+            ]
+        },
+        {
+            "number": 33,
+            "name": "군산나운DT",
+            "description": "군산의 첫 Drive Thru 매장인 군산나운DT점에서 일상 속의 여유로움을 즐겨보세요.",
+            "address": "전라북도 군산시 하나운안2길 4 (나운동)",
+            "parking": "1.주차가능 2.주차장위치 - 매장 옆 주차장 3.주차가능대수 - 7대",
+            "directions": "나운동 맥도날드 맞은 편 극동사거리 방면 도보로 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3724]_20191111020226_g1vte.bmp",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3724]_20210621092558_emdgy.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3724]_20210621092611_n94f1.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3724]_20210621092714_jx3of.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3724]_20210621092721_4xfco.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[3724]_20210621092733_01oeq.JPG"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:30",
+                "22일 금요일 07:30 ~ 21:30",
+                "23일 토요일 07:30 ~ 21:30",
+                "24일 일요일 07:30 ~ 21:30",
+                "25일 월요일 07:30 ~ 21:30",
+                "26일 화요일 07:30 ~ 21:30",
+                "27일 수요일 07:30 ~ 21:30"
+            ]
+        },
+        {
+            "number": 34,
+            "name": "군산수송",
+            "description": "광활한 바다를 품에 안은 군산시, 그 곳에 스타벅스 군산수송점이 여러분을 기다리고 있습니다.",
+            "address": "전라북도 군산시 수송로 195 (수송동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 후문 3.주차가능대수 4대 4. 주차조건 -없음",
+            "directions": "군산시 롯데마트 국민은행 앞에서 좌측으로 300M거리에 위치해 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062559_fd477.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9654]_20190617095745_7b5pu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062615_37yvk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062621_66rsx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062627_iui0p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062633_9c1ol.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190407062638_gmehj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/04/[9654]_20190408111450_ppmdx.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:30",
+                "22일 금요일 07:30 ~ 21:30",
+                "23일 토요일 07:30 ~ 21:30",
+                "24일 일요일 07:30 ~ 21:30",
+                "25일 월요일 07:30 ~ 21:30",
+                "26일 화요일 07:30 ~ 21:30",
+                "27일 수요일 07:30 ~ 21:30"
+            ]
+        },
+        {
+            "number": 35,
+            "name": "군산대",
+            "description": "젊음과 활기가 가득한 군산대점 입니다.",
+            "address": "전라북도 군산시 황룡로 7 (미룡동)",
+            "parking": "주차 불가능",
+            "directions": "군산대 정문 바로 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9740]_20210209054640_5jfgo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9740]_20210209054647_poevz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9740]_20210209054651_zfc56.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9740]_20210209054656_5hijz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9740]_20210209054700_tgkt8.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:30 ~ 21:00",
+                "22일 금요일 07:30 ~ 21:00",
+                "23일 토요일 08:00 ~ 21:00",
+                "24일 일요일 08:00 ~ 21:00",
+                "25일 월요일 07:30 ~ 21:00",
+                "26일 화요일 07:30 ~ 21:00",
+                "27일 수요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 36,
+            "name": "군산이마트",
+            "description": "편안하고 쉬어가고 싶은 매장, 군산이마트점입니다.",
+            "address": "전라북도 군산시 구암3.1로 137 (경암동)",
+            "parking": "1.주차가능 2.주차위치 -  군산이마트 주차장   3. 주차가능대수 - 1000대 이상 4.주차조건 - 무료",
+            "directions": "군산이마트 정문 주출입구",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4404]_20230323112237_5uo8y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4404]_20240126015754_8mzc4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4404]_20240126015801_n340f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4404]_20240126020145_99ak1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4404]_20240126015825_qh5h0.jpg"
+            ],
+            "hours": [
+                "21일 목요일 10:00 ~ 21:30",
+                "22일 금요일 10:00 ~ 21:30",
+                "23일 토요일 10:00 ~ 21:30",
+                "24일 일요일 휴점",
+                "25일 월요일 10:00 ~ 21:30",
+                "26일 화요일 10:00 ~ 21:30",
+                "27일 수요일 10:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 37,
+            "name": "군산조촌DT",
+            "description": "환영합니다! 바쁜일상의 휴식처이자 Drive Thru의 특별한 서비스를 경험할 수 있는 군산조촌DT입니다",
+            "address": "전라북도 군산시 번영로 133 (조촌동)",
+            "parking": "1. 주차가능 2.주차장 위치 - 매장 앞 주차장 3. 주차가능대수 - 8대 4.주차조건 - 무료",
+            "directions": "군산시청 사거리에서 터미널방향으로 300m 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4074]_20211208041123_lsxxl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4074]_20211208071351_9zzd4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4074]_20211208071405_rumch.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4074]_20211208071429_51saj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4074]_20211208071436_tji3e.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 21:30",
+                "22일 금요일 07:00 ~ 21:30",
+                "23일 토요일 07:00 ~ 21:30",
+                "24일 일요일 07:00 ~ 21:30",
+                "25일 월요일 07:00 ~ 21:30",
+                "26일 화요일 07:00 ~ 21:30",
+                "27일 수요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 38,
+            "name": "군산수송DT",
+            "description": "Drive Thru 매장의 특별한 서비스를 경험할 수 있는 군산수송DT점",
+            "address": "전라북도 군산시 공단대로 243 (수송동)",
+            "parking": "1. 주차가능 2.주차장 위치 - 매장 앞 주차장 3. 주차가능대수 - 16대 4.주차조건 - 무료",
+            "directions": "군산예술회관 사거리에서 남북로 사거리 방향으로 오른편에 위치 (하이마트 맞은편)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045631_y1s8s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045729_pdjfa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045639_iqzve.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045644_6w43l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045651_g84rb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045656_6otde.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045701_rg305.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045708_11aae.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045714_fslxt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3871]_20210808045722_59eo3.jpg"
+            ],
+            "hours": [
+                "21일 목요일 07:00 ~ 22:00",
+                "22일 금요일 07:00 ~ 22:00",
+                "23일 토요일 07:00 ~ 22:00",
+                "24일 일요일 07:00 ~ 22:00",
+                "25일 월요일 07:00 ~ 22:00",
+                "26일 화요일 07:00 ~ 22:00",
+                "27일 수요일 07:00 ~ 22:00"
+            ]
+        }
+    ]
+}
