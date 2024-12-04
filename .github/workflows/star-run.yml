@@ -35,6 +35,7 @@ jobs:
       - name: Run Starbucks Location Script
         run: |
           python starbucks-location.py
+          python starbucks-location2.py
 
       - name: Run Starbucks Details Script
         run: |
